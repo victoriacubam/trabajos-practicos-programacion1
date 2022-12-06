@@ -1,4 +1,4 @@
-/* importación de dos librerías de operaciones de * entrada/salida y carga de una variable de tipo entero desde consola
+/* importaciÃ³n de dos librerÃ­as de operaciones de * entrada/salida y carga de una variable de tipo entero desde consola
 */ 
 import java.io.BufferedReader; 
 import java.io.InputStreamReader;
