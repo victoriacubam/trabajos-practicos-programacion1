@@ -2,19 +2,19 @@
 public class TP1_E1 {
 	public static void main (String [] args) {
 		//Declaracion de variables
-		int cantidadDeAños;
+		int cantidadDeAÃ±os;
 		double porcentaje;
-		char numeroDeAño;
+		char numeroDeAÃ±o;
 		boolean abandona;
 		//Valores para las variables segun su tipo
-		cantidadDeAños = 2;
+		cantidadDeAÃ±os = 2;
 		porcentaje = 0.50;
-		numeroDeAño ='2';
+		numeroDeAÃ±o ='2';
 		abandona = false;
 		//Imprimo por pantalla las variables
-		System.out.print (" La duracion en años es de: " + cantidadDeAños);
+		System.out.print (" La duracion en aÃ±os es de: " + cantidadDeAÃ±os);
 		System.out.print (" El porcentaje de carrera realizado: " + porcentaje);
-		System.out.print (" Se encuentra en el año numero: " + numeroDeAño);
-		System.out.print (" Abandonó los estudios: " + abandona);
+		System.out.print (" Se encuentra en el aÃ±o numero: " + numeroDeAÃ±o);
+		System.out.print (" AbandonÃ³ los estudios: " + abandona);
 		}
 	}
