@@ -17,7 +17,7 @@ public class Clase_2_Ejemplo_8{
             doble = Double.valueOf(entrada.readLine());//la sentencia Double.valueOf() convierte a double 
             System.out.println ("Ingrese un entero: "); 
             entero = Integer.valueOf(entrada.readLine());//la sentencia Integer.valueOf() convierte a int
-        	System.out.println ("Ingrese char: "); //Para convertir/acceder al car·cter la sentencia es diferente 
+        	System.out.println ("Ingrese char: "); //Para convertir/acceder al car√°cter la sentencia es diferente 
           	caracter = entrada.readLine().charAt(0); 
 			System.out.println ("El float es: " + flotante); 
 			System.out.println ("El double es: " + doble);
