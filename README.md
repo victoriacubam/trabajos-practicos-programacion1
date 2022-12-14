@@ -1,1 +1,1 @@
-Trabajos practicos realizados durante la cursada de Programacion I - carrera TUDAI (UNICEN)
+Assignments using JAVA for chair of Programacion I 2022 | TUDAI - UNICEN (National University of the Center of the Province of Buenos Aires)
