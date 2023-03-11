@@ -1,5 +1,5 @@
-/*Hacer un programa que dado un arreglo de enteros de tamaño 10 que se encuentra 
-precargado, obtenga la cantidad de números pares que tiene y la imprima.*/
+/*Hacer un programa que dado un arreglo de enteros de tamaÃ±o 10 que se encuentra 
+precargado, obtenga la cantidad de nÃºmeros pares que tiene y la imprima.*/
 import java.util.Random;
 public class TP7_E2 {
 	public static final int MAX = 10;
@@ -38,5 +38,3 @@ public class TP7_E2 {
 		System.out.println("En este arreglo hay " + cantidad + " numeros pares");
 	}
 }
-
-//Este es una porqueria
